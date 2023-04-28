@@ -39,6 +39,16 @@ Destination Details:
 - Python Flask: Server-side logic and API endpoints
 - HTML, CSS, and JavaScript: Front-end development
 ---
+# Project organizataion on github
+
+- Four Branches are created for two major features
+    - Search
+    - Recommendations
+- There are two main dirctories as
+    - frontend
+    - backend
+
+---
 # Implementation
 
 ### Possible Datasets:
