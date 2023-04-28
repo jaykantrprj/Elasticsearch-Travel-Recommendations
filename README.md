@@ -38,5 +38,8 @@ Destination Details:
 - Elasticsearch: For storing and querying travel destination data
 - Python Flask: Server-side logic and API endpoints
 - HTML, CSS, and JavaScript: Front-end development
+---
+# Implementation
 
-
+### Possible Datasets:
+https://www.kaggle.com/datasets/ritvik1909/indian-places-to-visit-reviews-data
